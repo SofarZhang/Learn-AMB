@@ -1,1 +1,2 @@
-this file is from WEB github to 	synchronization the ubuntu git
+this file is from WEB github to synchronization the ubuntu git
+i try to change the file and to syn the ubuntu 
